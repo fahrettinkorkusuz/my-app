@@ -13,7 +13,7 @@ export default function Home() {
                 İç Mimarlık & Çevre Tasarımı
               </p>
               <h1 className="text-5xl md:text-6xl font-semibold leading-tight text-slate-900 animate-fade-in-up">
-                Tasarımın her detayında zarafeti, fonksiyonla birleştiren geleceğin mekânları inşa ediyorum.
+                Karmaşadan uzak, amaca yönelik iç mekân çözümleri.
               </h1>
               <p className="mt-8 max-w-2xl text-lg leading-8 text-slate-600 animate-fade-in-up animate-delay-1">
                 Altınbaş Üniversitesi İç Mimarlık ve Çevre Tasarımı öğrencisiyim; mezun olana kadar projelerin her aşamasında yaratıcı ve analitik düşünerek fark yaratıyorum.
