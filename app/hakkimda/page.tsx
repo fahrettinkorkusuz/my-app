@@ -24,14 +24,6 @@ export default function HakkimdaPage() {
     </a>
   </div>
 
-  <iframe
-    src="/001_Omer_Fazlioglu_Ic_Mimarlik_CV.pdf#toolbar=0&navpanes=0&scrollbar=0"
-    title="001_Omer_Fazlioglu_Ic_Mimarlik_CV"
-    className="h-[80vh] w-full rounded-[1.5rem] border border-slate-200 bg-white"
-  >
-    Bu tarayıcı PDF dosyasını doğrudan görüntüleyemiyor...
-  </iframe>
-
 </div>
               <iframe
                 src="/001_Omer_Fazlioglu_Ic_Mimarlik_CV.pdf#toolbar=0&navpanes=0&scrollbar=0"
