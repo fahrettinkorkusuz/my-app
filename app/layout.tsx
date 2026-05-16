@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Portfolyo - Ömer Fazlıoğlu",
-  description: "Modern web ve mobil projeler sunan yazılım geliştirme portfolyosu.",
+  description: "İç mimari, dekorasyon ve konsept tasarım portfolyosu",
 };
 
 export default function RootLayout({
