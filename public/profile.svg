@@ -1,0 +1,8 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="90" fill="#0f172a"/>
+  <circle cx="600" cy="420" r="220" fill="#1e293b" stroke="#38bdf8" stroke-width="24"/>
+  <rect x="280" y="760" width="640" height="200" rx="50" fill="#1e293b" stroke="#38bdf8" stroke-width="24"/>
+  <path d="M420 780C420 740 450 700 600 700C750 700 780 740 780 780V800H420V780Z" fill="#0f172a"/>
+  <path d="M360 920C360 880 390 840 600 840C810 840 840 880 840 920" stroke="#38bdf8" stroke-width="24" stroke-linecap="round"/>
+  <text x="600" y="1070" text-anchor="middle" fill="#cbd5e1" font-family="Inter, Arial, sans-serif" font-size="72">Profil Fotoğrafı</text>
+</svg>
