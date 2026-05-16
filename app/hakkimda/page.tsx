@@ -12,7 +12,7 @@ export default function HakkimdaPage() {
           <div className="flex flex-col items-center gap-6">
             <div className="w-full max-w-5xl rounded-[1.75rem] border border-slate-200 bg-slate-100 p-2 mx-auto">
               <iframe
-                src="/001_Omer_Fazlioglu_Ic_Mimarlik_CV.pdf"
+                src="/001_Omer_Fazlioglu_Ic_Mimarlik_CV.pdf#toolbar=0&navpanes=0&scrollbar=0"
                 title="001_Omer_Fazlioglu_Ic_Mimarlik_CV"
                 className="h-[80vh] w-full rounded-[1.5rem] border border-slate-200 bg-white"
               >
