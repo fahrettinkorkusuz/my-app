@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolyo - Nişantaşı Üniversitesi Bilgisayar Mühendisliği",
+  title: "Portfolyo - Ömer Fazlıoğlu",
   description: "Modern web ve mobil projeler sunan yazılım geliştirme portfolyosu.",
 };
 
