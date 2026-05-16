@@ -4,12 +4,12 @@ import { useScrollReveal } from '../hooks/useScrollReveal';
 
 export default function PortfolyoPage() {
   useScrollReveal();
-  const [selectedImage, setSelectedImage] = useState(null);
-const [imageList, setImageList] = useState([]);
-const [imageIndex, setImageIndex] = useState(0);
+ const [selectedImage, setSelectedImage] = useState<string | null>(null);
+const [imageList, setImageList] = useState<string[]>([]);
+const [imageIndex, setImageIndex] = useState<number>(0);
 
 
-const openLightbox = (images, index) => {
+const openLightbox = (images: string[], index: number) => {
   setImageList(images);
   setImageIndex(index);
   setSelectedImage(images[index]);
