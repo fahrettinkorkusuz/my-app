@@ -11,6 +11,28 @@ export default function HakkimdaPage() {
           <h1 className="text-4xl font-semibold mb-6 text-slate-900">Hakkımda</h1>
           <div className="flex flex-col items-center gap-6">
             <div className="w-full max-w-5xl rounded-[1.75rem] border border-slate-200 bg-slate-100 p-2 mx-auto">
+              <div className="w-full max-w-5xl rounded-[1.75rem] border border-slate-200 bg-slate-100 p-2 mx-auto">
+
+  {/* ✅ Bunu ekle */}
+  <div className="flex justify-end mb-2">
+    
+       <a href="/001_Omer_Fazlioglu_Ic_Mimarlik_CV.pdf"
+      download
+      className="flex items-center gap-2 bg-indigo-600 text-white px-4 py-2 rounded-full text-sm hover:bg-indigo-700 transition"
+    >
+      ⬇ CV İndir
+    </a>
+  </div>
+
+  <iframe
+    src="/001_Omer_Fazlioglu_Ic_Mimarlik_CV.pdf#toolbar=0&navpanes=0&scrollbar=0"
+    title="001_Omer_Fazlioglu_Ic_Mimarlik_CV"
+    className="h-[80vh] w-full rounded-[1.5rem] border border-slate-200 bg-white"
+  >
+    Bu tarayıcı PDF dosyasını doğrudan görüntüleyemiyor...
+  </iframe>
+
+</div>
               <iframe
                 src="/001_Omer_Fazlioglu_Ic_Mimarlik_CV.pdf#toolbar=0&navpanes=0&scrollbar=0"
                 title="001_Omer_Fazlioglu_Ic_Mimarlik_CV"
