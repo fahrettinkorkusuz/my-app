@@ -20,7 +20,7 @@ export default function IletisimPage() {
                   </a>
                 </p>
                 <p>
-                  <a href="https://www.instagram.com" target="_blank" rel="noreferrer" className="font-medium text-indigo-700 hover:text-indigo-900">
+                  <a href="https://www.instagram.com/fazliogluomer_?igsh=dmpwZjJ6azFvMjUy" target="_blank" rel="noreferrer" className="font-medium text-indigo-700 hover:text-indigo-900">
                     Instagram
                   </a>
                 </p>
